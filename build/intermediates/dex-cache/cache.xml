@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zluo2/.android/build-cache/74b2458e87b7c1493d3ebd2ccfd52140f361f466/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/zluo2/Desktop/4518/project1_assigned/Court-Counter/app/build/intermediates/pre-dexed/debug/classes_7cbd5fff553c891fee32be0616dc2176c514810b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zluo2/.android/build-cache/db2245958d72afd8a4b0e5c26bba3ccaaab989fe/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/zluo2/Desktop/4518/project1_assigned/Court-Counter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_4687c10cc6bafcdc4834d6f7ed2d4de0b0a27de4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zluo2/.android/build-cache/a971b544b318a2e6d41295155fc3f49cb9f2805b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/zluo2/Desktop/4518/project1_assigned/Court-Counter/app/build/intermediates/pre-dexed/debug/classes_a0556819df2ad20a7df15d88512c4b6120504f7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zluo2/.android/build-cache/fec4a9894fa1f585548a4c9ed42c3cb2180a080e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/zluo2/Desktop/4518/project1_assigned/Court-Counter/app/build/intermediates/pre-dexed/debug/classes_9d7e1ae6f5671c258ce3b2d516c32994828e81ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zluo2/.android/build-cache/a971b544b318a2e6d41295155fc3f49cb9f2805b/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/zluo2/Desktop/4518/project1_assigned/Court-Counter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_aef5f8f7a54118027820488b8082c3102a928e93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zluo2/.android/build-cache/b3adfd814f3fc6b4924d0cc17f38217a4c0cd33b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/zluo2/Desktop/4518/project1_assigned/Court-Counter/app/build/intermediates/pre-dexed/debug/classes_2f71efd58847e35542e9baa5c5be473f4d1535c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zluo2/.android/build-cache/9b11823bf8c9b25c5bb2dd68a07a0505044585e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/zluo2/Desktop/4518/project1_assigned/Court-Counter/app/build/intermediates/pre-dexed/debug/classes_31920036988f6dd3880b4605079b3736788562f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zluo2/.android/build-cache/44a943c3160ea7304e72847a40f64a9af06f58cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/zluo2/Desktop/4518/project1_assigned/Court-Counter/app/build/intermediates/pre-dexed/debug/classes_ef5b45dcb963ddd0da946ba8df34a7fb0f95bdd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zluo2/.android/build-cache/db2245958d72afd8a4b0e5c26bba3ccaaab989fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/zluo2/Desktop/4518/project1_assigned/Court-Counter/app/build/intermediates/pre-dexed/debug/classes_a5cf666fe2f55d63f8cc2e087d6f7ac30d188b8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zluo2/.android/build-cache/11254deec5d7c879bf463d4a2bc75f52d39b1322/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/zluo2/Desktop/4518/project1_assigned/Court-Counter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8b831699e704ce8786fa5bc4e4591e798e45db31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zluo2/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/zluo2/Desktop/4518/project1_assigned/Court-Counter/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_4af9b943f3e85cb433b73b1c157aab23c845816a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zluo2/.android/build-cache/11254deec5d7c879bf463d4a2bc75f52d39b1322/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/zluo2/Desktop/4518/project1_assigned/Court-Counter/app/build/intermediates/pre-dexed/debug/classes_a8bba180bdcf157ebf44b4f06bba51409e9698be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zluo2/.android/build-cache/cbf837a8a82962a3592446ebb29e37a129de852f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/zluo2/Desktop/4518/project1_assigned/Court-Counter/app/build/intermediates/pre-dexed/debug/classes_5cdfc96f2a2555d543ef746b4af9ab0b8850b19a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zluo2/.android/build-cache/74b2458e87b7c1493d3ebd2ccfd52140f361f466/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/zluo2/Desktop/4518/project1_assigned/Court-Counter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_aa4f3502f372e3b7d9c7db6ca54d5798faad96c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zluo2/.android/build-cache/9b11823bf8c9b25c5bb2dd68a07a0505044585e5/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/zluo2/Desktop/4518/project1_assigned/Court-Counter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_207b1b4260072ad7dc5776404cdd4b872ee8d166.jar" />
+    </item>
+
+</items>
